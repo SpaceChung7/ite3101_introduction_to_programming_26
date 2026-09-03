@@ -1,1 +1,1 @@
-print("Hello " + [your_name]")
+print("Hello " + "Cyrus Wong")
