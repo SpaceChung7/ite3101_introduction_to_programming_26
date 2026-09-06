@@ -4,4 +4,4 @@ exercises_completed = 13
 points_per_exercise = 5
 
 point_total = 100
-p
+point_total
