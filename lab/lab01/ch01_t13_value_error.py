@@ -1,4 +1,5 @@
 float_1 = 0.25
 float_2 = 40.0
 
-prodcut = float_1 * 
+prodcut = float_1 * float_2
+big_string =
